@@ -63,4 +63,4 @@ Develop computational tools for medical imaging analysis that can support clinic
 
 ## Contact
 
-📧 yulsf07@usp.br
+yulsf07@usp.br
