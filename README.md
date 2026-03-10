@@ -1,16 +1,56 @@
-## Hi there 👋
+## Hi there I'm Yuliana 👋
 
-<!--
-**yulsf07-ctrl/yulsf07-ctrl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MSc Student in Bioengineering at the University of São Paulo (USP)  
+🔬 Biomedical Engineer  
+🌎 Originally from Colombia, currently studying in Brazil  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔬 Research Interests
+
+- Medical Image Processing
+- Computed Tomography (CT)
+- DICOM Standard
+- Artificial Intelligence in Healthcare
+- Scientific Computing
+- Biomedical Data Analysis
+
+---
+
+## 💻 Programming & Tools
+
+- Python
+- MATLAB
+- NumPy
+- OpenCV
+- Matplotlib
+- Git & GitHub
+
+---
+
+## 📚 Currently Learning
+
+- Medical image analysis
+- DICOM data processing
+- Machine learning for medical images
+- Scientific programming with Python
+
+---
+
+## 📂 Current Projects
+
+- Medical image processing experiments
+- Learning DICOM data structures
+- Scientific computing exercises
+
+---
+
+## 🎯 Academic Goal
+
+Develop computational tools for medical imaging analysis that can support clinical research and healthcare innovation.
+
+---
+
+## 📫 Contact
+
+📧 yulsf07@usp.br
