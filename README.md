@@ -27,21 +27,30 @@
 - Git & GitHub
 
 ---
+<table>
+<tr>
+<td valign="top" width="50%">
 
-## 📚 Currently Learning
+### 📚 Currently Learning
 
-- Medical image analysis
-- DICOM data processing
-- Machine learning for medical images
-- Scientific programming with Python
+- Medical image analysis  
+- DICOM data processing  
+- Machine learning for medical images  
+- Scientific programming with Python  
 
----
+</td>
 
-## 📂 Current Projects
+<td valign="top" width="50%">
 
-- Medical image processing experiments
-- Learning DICOM data structures
-- Scientific computing exercises
+### 📂 Current Projects
+
+- Medical image processing experiments  
+- Learning DICOM data structures  
+- Scientific computing exercises  
+
+</td>
+</tr>
+</table>
 
 ---
 
