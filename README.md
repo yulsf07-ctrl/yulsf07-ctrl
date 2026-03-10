@@ -17,7 +17,7 @@
 
 ---
 
-## 💻 Programming & Tools
+## Programming & Tools
 
 - Python
 - MATLAB
@@ -27,9 +27,9 @@
 - Git & GitHub
 
 ---
-<table>
-<tr>
-<td valign="top" width="50%">
+<div style="display: flex; gap: 40px;">
+
+<div>
 
 ### 📚 Currently Learning
 
@@ -38,9 +38,9 @@
 - Machine learning for medical images  
 - Scientific programming with Python  
 
-</td>
+</div>
 
-<td valign="top" width="50%">
+<div>
 
 ### 📂 Current Projects
 
@@ -48,10 +48,9 @@
 - Learning DICOM data structures  
 - Scientific computing exercises  
 
-</td>
-</tr>
-</table>
+</div>
 
+</div>
 ---
 
 ## 🎯 Academic Goal
