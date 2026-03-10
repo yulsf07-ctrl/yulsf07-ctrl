@@ -6,7 +6,7 @@
 
 ---
 
-## 🔬 Research Interests
+## Research Interests
 
 - Medical Image Processing
 - Computed Tomography (CT)
@@ -28,12 +28,30 @@
 
 ---
 
-|     Currently Learning | Current Projects |
+<table>
+<tr>
+<td>
 
-| Medical image analysis  Medical image processing experiments |
-| DICOM data processing  Learning DICOM data structures |
-| Machine learning for medical images  Scientific computing exercises |
-| Scientific programming with Python   
+### Currently Learning
+
+- Medical image analysis  
+- DICOM data processing  
+- Machine learning for medical images  
+- Scientific programming with Python  
+
+</td>
+
+<td>
+
+### Current Projects
+
+- Medical image processing experiments  
+- Learning DICOM data structures  
+- Scientific computing exercises  
+
+</td>
+</tr>
+</table>  
 
 ---
 
