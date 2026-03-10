@@ -28,21 +28,21 @@
 
 ---
 
-| 📚 Currently Learning | 📂 Current Projects |
-| --- | --- |
-| Medical image analysis | Medical image processing experiments |
-| DICOM data processing | Learning DICOM data structures |
-| Machine learning for medical images | Scientific computing exercises |
-| Scientific programming with Python |  |
+|     Currently Learning | Current Projects |
+
+| Medical image analysis  Medical image processing experiments |
+| DICOM data processing  Learning DICOM data structures |
+| Machine learning for medical images  Scientific computing exercises |
+| Scientific programming with Python   
 
 ---
 
-## 🎯 Academic Goal
+## Academic Goal
 
 Develop computational tools for medical imaging analysis that can support clinical research and healthcare innovation.
 
 ---
 
-## 📫 Contact
+## Contact
 
 📧 yulsf07@usp.br
